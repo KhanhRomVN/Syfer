@@ -15,6 +15,7 @@ import './browser/workbench.contribution.js';
 //#region --- Syfer
 import './contrib/syfer/browser/syfer.contribution.js'; // Syfer added this
 import './contrib/syferAgent/browser/syferAgent.contribution.js';
+import './contrib/goFlow/browser/goFlow.contribution.js';
 //#endregion
 
 //#region --- workbench actions
